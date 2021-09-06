@@ -17,7 +17,7 @@ export const HeaderWrapper = styled.div`
 `;
 
 export const HeaderTitle = styled.div`
-  font-size: 30px;
+  font-size: 28px;
   color: #919191;
-  font-family: 'SCDreamThin';
+  font-family: 'SCDreamBold';
 `;
