@@ -5,6 +5,7 @@ import SCDreamLight from '../assets/fonts/SCDream3.otf';
 import SCDreamRegular from '../assets/fonts/SCDream4.otf';
 import SCDreamMedium from '../assets/fonts/SCDream5.otf';
 import SCDreamBold from '../assets/fonts/SCDream6.otf';
+import SCDreamBlack from '../assets/fonts/SCDream9.otf';
 
 const FontStyles = createGlobalStyle`
 
@@ -38,6 +39,10 @@ const FontStyles = createGlobalStyle`
     src: url(${SCDreamBold});
   }
 
+  @font-face {
+    font-family: 'SCDreamBlack';
+    src: url(${SCDreamBlack});
+  }
 `;
 
 export default FontStyles;

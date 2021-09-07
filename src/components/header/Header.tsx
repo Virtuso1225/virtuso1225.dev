@@ -5,7 +5,7 @@ const Header: React.FC = () => {
   return (
     <HeaderContainer>
       <HeaderWrapper>
-        <HeaderTitle>Virtuso1225</HeaderTitle>
+        <HeaderTitle>VIRTUSO.DEV</HeaderTitle>
       </HeaderWrapper>
     </HeaderContainer>
   );
