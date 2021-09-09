@@ -15,3 +15,13 @@ export const MainCardWrapper = styled.div`
   /* box-shadow: 41px 41px 82px rgba(195, 201, 209, 0.16); */
   box-shadow: 41px 41px 94px #d7dfe7, -10px -10px 20px #f3fbff;
 `;
+
+export const MainLeftSection = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 100%;
+  border-right: 10px solid #e5edf6;
+  box-shadow: 10px 20px 30px rgba(195, 201, 209, 0.16);
+`;
